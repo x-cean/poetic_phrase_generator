@@ -18,3 +18,11 @@ let temperature = 0.3
 // (remember to use "avatar.jpg" as the name of your photo)
 
 generateTextAndImage(name, favoriteActivity, favoritePlace, temperature)
+
+
+// How to run:
+// Make sure you have an index.html file in the poetic_phrase_generator folder that includes a script tag for index.js.
+// Open a terminal, navigate to the poetic_phrase_generator directory.
+// Start a simple HTTP server. For example, using Python:
+// python3 -m http.server
+// Open your browser and go to http://localhost:8000
